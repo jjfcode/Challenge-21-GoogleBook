@@ -8,8 +8,13 @@ query Me {
     email
     password
     bookCount
-    savedBooks {
-      
+    savedBooks{
+      bookId
+      authors
+      description
+      title
+      image
+      link
     }
   }
 }
