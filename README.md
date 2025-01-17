@@ -50,8 +50,8 @@ Challenge-21-GoogleBook is a web application that allows users to search for boo
 - Google Books API
 
 ## Deployment
-The application is deployed on Netlify and can be accessed at the following URL:
-[https://reactportfolio-jjf.netlify.app](https://reactportfolio-jjf.netlify.app)
+The application is deployed on Render and can be accessed at the following URL:
+[https://challenge-21-googlebook.onrender.com](https://challenge-21-googlebook.onrender.com)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
